@@ -48,7 +48,7 @@ class Matrix {
         float determinant();
         void hadamardProduct(const Matrix &); 
         void kroeneckerProduct(const Matrix &); 
-		Matrix psuedoInverse();
+		vector<Matrix> SVD();
 
         /* --- DEBUGGING --- */
         void print() const;
