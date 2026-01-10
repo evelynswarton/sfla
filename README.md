@@ -1,6 +1,6 @@
 # SFLA (Simple Fast Linear Algebra)
 
-My personal C library for doing ocmputational linear algebra and matrix math.
+My personal C++ library for doing ocmputational linear algebra and matrix math.
 
 ## Immediate TODO:
 - Represent with row major and vectors
